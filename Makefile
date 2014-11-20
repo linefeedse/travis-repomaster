@@ -1,2 +1,2 @@
 all:
-	echo "Done"
+	go run repomaker.go
